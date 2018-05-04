@@ -1,0 +1,6 @@
+void main()
+{
+
+cout<<"hello";
+
+}
